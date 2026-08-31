@@ -6,4 +6,6 @@ git log -> -M [nombre] -> cambia el nombre de la rama actual
 git branch --list ->listar ramas locales
 git branch --list ->listar ramas locales y remotas
 git add remote add origin <link> -> agregar un vinvulo remoto para el repositorio
-git push 
+git push -u origin 
+git push -> sube los cambios al remote
+git clone<url> -> clonar el repositorio eremoto, en local
