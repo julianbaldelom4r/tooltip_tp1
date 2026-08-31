@@ -1,0 +1,9 @@
+git init -> inicia el local repo
+git status -> estado actual del repo/rama
+git add -> agregar archivos/carpetas/cualquier-cosa al staging area 
+git commit -m "[mensaje]" -> hacer un commit
+git log -> -M [nombre] -> cambia el nombre de la rama actual
+git branch --list ->listar ramas locales
+git branch --list ->listar ramas locales y remotas
+git add remote add origin <link> -> agregar un vinvulo remoto para el repositorio
+git push 

@@ -21,7 +21,7 @@ _texto en negrita alt2_
 
 [ir a google](Google)
 
-![image](https://www.google.com/imgres?q=caballeros&imgurl=https%3A%2F%2Fokdiario.com%2Fimg%2F2017%2F01%2F04%2Fcaballeros-edad-media-curiosidades.jpg&imgrefurl=https%3A%2F%2Fokdiario.com%2Fcuriosidades%2Fcuriosidades-caballeros-medievales-edad-media-644261&docid=3FBILOXMN-9HXM&tbnid=sDiRptW6kk5naM&vet=12ahUKEwiepuGQ0cuWAxV0rZUCHcL3Oa8QnPAOegQIOhAA..i&w=1200&h=675&hcb=2&ved=2ahUKEwiepuGQ0cuWAxV0rZUCHcL3Oa8QnPAOegQIOhAA)
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSYSIqPX6iVC4ai1BPPMd3UKNlPRMJ6LljKZx2bp42w&s=10)
 
 ```
 <p class=tooltip
